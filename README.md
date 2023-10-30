@@ -16,7 +16,8 @@
 </body>
 </html>
 ```
-Output 
+Output :
+
 ![image](https://github.com/twn304/Lab5Web/assets/115573041/c4bfc0ba-be26-4d8a-ae72-03fa941b7edb)
 
 
@@ -34,7 +35,8 @@ Output
     </body>
 </html>
 ```
-Output 
+Output :
+
 ![image-2](https://github.com/twn304/Lab5Web/assets/115573041/c6e9eefe-721c-4435-8a2f-a4409b4b10e7)
 
 
@@ -55,6 +57,7 @@ Output
 </html>
 ```
 Output : 
+
 ![image-3](https://github.com/twn304/Lab5Web/assets/115573041/4fc9ca4f-52ac-4476-aa3c-f6a08a31ed4e)
 
 
@@ -73,6 +76,7 @@ Output :
 </html>
 ```
 Output :
+
 ![image-4](https://github.com/twn304/Lab5Web/assets/115573041/db5c72c5-bd8e-4054-b934-fc643ebd388b)
 
 
@@ -128,8 +132,6 @@ Output :
  
 ![image-6](https://github.com/twn304/Lab5Web/assets/115573041/076697c2-1efd-4d57-a05f-784ede681194)
 
-
-
 7. Seleksi Kondisi if-else
 
 ```html
@@ -143,6 +145,7 @@ Output :
 	document.write("hasil: " + hasil);  
 </script>
 ```
+
 ![image-7](https://github.com/twn304/Lab5Web/assets/115573041/c06b32bb-914c-4f8e-86c4-3f9c0581e517)
 
 8. Penggunaan Operator switch untuk seleksi kondisi
